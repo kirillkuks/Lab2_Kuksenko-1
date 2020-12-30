@@ -1,5 +1,5 @@
-InputFile = configs\MyConfigs\outputABin.bin
-ConfigForReader = configs\MyConfigs\readerConfig.txt
-OutputFile = configs\MyConfigs\outputABinT.bin
-ConfigForWriter = configs\MyConfigs\writerConfig.txt
+InputFile = configs\ReaderAndWriterOnly\outputABin.bin
+ConfigForReader = configs\ReaderAndWriterOnly\readerConfig.txt
+OutputFile = configs\ReaderAndWriterOnly\outputABinT.bin
+ConfigForWriter = configs\ReaderAndWriterOnly\writerConfig.txt
 Order = Reader = Writer
