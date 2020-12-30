@@ -1,0 +1,2 @@
+MODE = DECODING
+FILE = configs\Executor\CodingParams.txt
